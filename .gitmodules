@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/jeremigendron/core
+[submodule "docs"]
+	path = docs
+	url = https://github.com/jeremigendron/docs
+[submodule "desktop-wallet"]
+	path = desktop-wallet
+	url = https://github.com/jeremigendron/desktop-wallet
